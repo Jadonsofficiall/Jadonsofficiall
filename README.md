@@ -1,7 +1,7 @@
 ![](https://github.com/Jadonsofficiall/AboutMe/blob/main/istockphoto-1325034866-612x612.jpg)
 
 <h1 align="center">Hi, I'm Jahbuikem</h1>
-<h3 align="center">I'm a trained and certified expert in Excel and Power BI Analytics. I am a data analytics instructor who understands basic and advance tools like, SQL, R and SPSS for research, business and health analysis. I help businesses, students and sales executives uncover insights with data.</h3>
+<h3 align="center">I'm a trained and certified expert in Excel and Power BI Analytics. I am a data analytics instructor who understands basic and advance tools such as, SQL, Python, R and SPSS for research, business and health analysis. I help businesses, students and sales executives uncover insights with data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonsofficiall&label=Profile%20views&color=0e75b6&style=flat" alt="jadonsofficiall" /> </p>
 
