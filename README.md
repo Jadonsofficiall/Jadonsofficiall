@@ -10,9 +10,9 @@
 [Jahbuikem Anderson](https://www.linkedin.com/in/jahbuikemanderson) is a trained and certified expert in Excel and Power BI Analytics. A data analytics instructor who understands basic and advance tools like, SQL, R and SPSS for research, business and health analysis.  
 I **help businesses, students and sales executives uncover insights with data.**
 
-- 🔭 I’m currently working on **IT Analytics Project and SQL Databases**
+- 🔭 I’m currently working on **SQL Databases**
 
-- 🌱 I’m currently learning **Advance SQL queries and Alteryx for Analytics**
+- 🌱 I’m currently learning **Advance SQL queries and Python for AI/ML**
 
 - 👯 I’m looking to collaborate on **Business and Health projects**
 
