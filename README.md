@@ -22,11 +22,11 @@ I **help businesses, students and sales executives uncover insights with data.**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jahbuikemanderson](https://www.linkedin.com/in/jahbuikemanderson)
 
-- 💬 Ask me about **Excel, Power BI, SQL and SPSS**
+- 💬 Ask me about **Business Intelligence Analysis, Spreadsheet(Excel), Power BI, SQL and SPSS**
 
 - 📫 How to reach me **jahbuikem98@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/m/Jadonsofficall](https://bit.ly/m/Jadonsofficall)
+- 📄 Know about my experiences [https://jahbuikem.lovable.app](https://jahbuikem.lovable.app)
 
 - ⚡ Fun fact **I love food**
 
