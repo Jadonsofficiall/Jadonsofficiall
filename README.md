@@ -1,13 +1,13 @@
 ![](https://github.com/Jadonsofficiall/AboutMe/blob/main/istockphoto-1325034866-612x612.jpg)
 
 <h1 align="center">Hi, I'm Jahbuikem</h1>
-<h3 align="center">I'm a trained and certified expert in Excel and Power BI Analytics. I am a data analytics instructor who understands basic and advance tools such as, SQL, Python, R and SPSS for research, business and health analysis. I help businesses, students and sales executives uncover insights with data.</h3>
+<h3 align="center">I'm a trained and certified expert in Excel and Power BI Analytics. I am a data analytics instructor who understands and uses basic and advance tools such as, SQL, Python, R and SPSS for research, business and health analysis. I help businesses, students and sales executives uncover insights with data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonsofficiall&label=Profile%20views&color=0e75b6&style=flat" alt="jadonsofficiall" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jadonsofficial" target="blank"><img src="https://img.shields.io/twitter/follow/jadonsofficial?logo=twitter&style=for-the-badge" alt="jadonsofficial" /></a> </p>
 
-[Jahbuikem Anderson](https://www.linkedin.com/in/jahbuikemanderson) is a trained and certified expert in Excel and Power BI Analytics. A data analytics instructor who understands basic and advance tools like, SQL, R and SPSS for research, business and health analysis.  
+[Jahbuikem Anderson](https://www.linkedin.com/in/jahbuikemanderson) is a trained and certified expert in Excel and Power BI Analytics. A data analytics instructor who understands and uses basic and advance tools like, SQL, R and SPSS for research, business and health analysis.  
 I **help businesses, students and sales executives uncover insights with data.**
 
 - 🔭 I’m currently working on **SQL Databases**
